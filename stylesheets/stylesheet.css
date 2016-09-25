@@ -221,7 +221,8 @@ a {
 @media screen and (max-width: 42em) {
   .main-content {
     padding: 2rem 1rem;
-    font-size: 1rem; } }
+    font-size: 1rem; 
+    font-family: justify;} }
 
 .site-footer {
   padding-top: 2rem;
